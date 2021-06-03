@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check weather condition of any city!
+
+![Screenshot 2021-06-03 162221](https://user-images.githubusercontent.com/55766526/120637541-e6340380-c423-11eb-9f54-7bc780c1cbeb.png)
+
+![Screenshot 2021-06-03 162529](https://user-images.githubusercontent.com/55766526/120637562-ea602100-c423-11eb-88b3-c1db123dbaaa.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
